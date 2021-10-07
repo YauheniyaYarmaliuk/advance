@@ -1,0 +1,1 @@
+{"elements":[{"name":"Jane","entities":[{"filtering_field":"number","condition":"gte","value":"1"},{"filtering_field":"name","condition":"cnt","value":"demo"}],"share":true,"selection_parameters":{"orders":[{"is_asc":false,"sorting_column":"start_time"},{"is_asc":false,"sorting_column":"number"}]},"type":"launch","description":"new Filter"}]}

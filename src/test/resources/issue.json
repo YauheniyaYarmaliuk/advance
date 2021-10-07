@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "project": {
+      "key": "TP"
+    },
+    "summary": "REST EXAMPLE",
+    "description": "Creating an issue via REST API",
+    "issuetype": {
+      "name": "Task"
+    }
+  }
+}
